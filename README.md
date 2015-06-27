@@ -1,0 +1,1 @@
+# sevenLine_triangle
